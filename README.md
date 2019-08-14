@@ -13,7 +13,7 @@ Find :
 
 4. [Rotator.cs](https://gist.github.com/sid68v/3b4553920e3096d2ab3a7c9a14003c49) : *Basic Rotation script around Y axis.*
 
-5. [AnchorsToCorners.cs](https://gist.github.com/sid68v/301825b835e2ef96907e6698c5f5ea2f) : *To anchor UI elements in fixed positions. needs to be commented before building app. credits to https://github.com/refreshlearn/Unity3DScripts*
+5. [AnchorsToCorners.cs](https://gist.github.com/sid68v/301825b835e2ef96907e6698c5f5ea2f) : *To anchor UI elements in fixed positions.credits to https://github.com/refreshlearn/Unity3DScripts*
 
 **_UI and associated prefabs_** - go to **[/UnityPackages](/UnityPackages)**
 
