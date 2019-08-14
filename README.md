@@ -3,4 +3,4 @@ Contains commonly and repeatedly used scripts and useful assets needed when deve
 
 UI
 1. *Progressbar* <br />
-![](demoGifs/ProgressBarDemo.gif)
+![Import the unitypackage and drag the prefab to canvas to use. More help inside the script attached to the prefab.](demoGifs/ProgressBarDemo.gif)
