@@ -9,9 +9,10 @@ Find :
  
 2. [ObjectPooler.cs](https://gist.github.com/sid68v/235b7db29846b5434ffd98ae40d33345) : *A generic script for object pooling.*
 
+3. [CameraFollow.cs](https://gist.github.com/sid68v/219bf071db71405f631aad8c9f8f9d79) : *A standard camera controller script that can be attached to the MainCamera to follow and rotate along with the player.*
 
-**_UI and associated prefabs_** - go to **/UnityPackages**
+**_UI and associated prefabs_** - go to **[/UnityPackages](/UnityPackages)**
 
 **UI**
-1. *Progressbar* <br />
+1. *[Progressbar](/UnityPackages/ProgressBar)* <br />
 ![Import the unitypackage and drag the prefab to canvas to use. More help inside the script attached to the prefab.](demoGifs/ProgressBarDemo.gif)
