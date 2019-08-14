@@ -11,6 +11,8 @@ Find :
 
 3. [CameraFollow.cs](https://gist.github.com/sid68v/219bf071db71405f631aad8c9f8f9d79) : *A standard camera controller script that can be attached to the MainCamera to follow and rotate along with the player.*
 
+4. [Rotator.cs](https://gist.github.com/sid68v/3b4553920e3096d2ab3a7c9a14003c49) : *Basic Rotation script around Y axis.*
+
 **_UI and associated prefabs_** - go to **[/UnityPackages](/UnityPackages)**
 
 **UI**
